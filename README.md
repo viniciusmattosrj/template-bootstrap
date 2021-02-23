@@ -2,7 +2,7 @@
 - <a href="https://www.udemy.com/template-com-bootstrap/">Template Bootstrap</a> - Guilherme Ferreira
 
 
-### Instalação
+#### Instalação
 
 Realize o git clone do projeto com o comando abaixo:
 ```
