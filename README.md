@@ -1,18 +1,18 @@
-# Template com Bootstrap
+## Template com Bootstrap
 - <a href="https://www.udemy.com/template-com-bootstrap/">Template Bootstrap</a> - Guilherme Ferreira
 
 
-## Instalação
+### Instalação
 
-Só realizar o git clone do projeto e ser feliz
-```bash
+Realize o git clone do projeto com o comando abaixo:
+```
 git clone git@github.com:viniciusmattosrj/template-bootstrap.git
 ```
 
-## Contribuições
+#### Contribuições
 Caso identifique pontos
 que possam ser aprimorados envie o seu PR. ;-)
 
 
-## License
+#### License
 [MIT](https://choosealicense.com/licenses/mit/)
